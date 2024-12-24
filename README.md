@@ -1,1 +1,4 @@
 # SAFE-SAIL
+This project predicts Titanic passenger survival by combining Exploratory Data Analysis (EDA) and machine learning techniques. EDA reveals patterns in features like age, gender, and passenger class using univariate, bivariate, and multivariate analyses, helping to understand survival factors. Key libraries like NumPy, Seaborn, and Matplotlib are used for visualizations and a correlation matrix.
+
+Machine learning models such as Logistic Regression, Decision Trees, Random Forests, SVM, and KNN are employed to predict survival. The data undergoes preprocessing with missing value handling, feature selection, feature scaling, and train-test splitting for optimal performance. The model's accuracy is evaluated to identify the best-performing algorithm, providing insights into survival predictions.
